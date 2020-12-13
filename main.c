@@ -7,4 +7,5 @@ void main(void) {
 	printf("test branch 3\n");
 	branch222222
 	branch333333
+	branch444444
 }
